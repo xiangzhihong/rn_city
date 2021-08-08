@@ -1,0 +1,6 @@
+module Pods_select_city_select_cityTests {
+  umbrella header "Pods-select_city-select_cityTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,14 @@
+com/select_city/MainActivity.java
+ com.select_city.MainActivity
+com/select_city/BuildConfig.java
+ com.select_city.BuildConfig
+com/select_city/ReactNativeFlipper.java
+ com.select_city.ReactNativeFlipper
+ com.select_city.ReactNativeFlipper$1
+ com.select_city.ReactNativeFlipper$2
+ com.select_city.ReactNativeFlipper$2$1
+com/select_city/MainApplication.java
+ com.select_city.MainApplication
+ com.select_city.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
